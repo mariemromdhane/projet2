@@ -1,0 +1,12 @@
+#titre {
+  color:black;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+p, a, ul,h2,img {
+  margin : 1px;
+  padding : 1px;
+}
+a:hover {
+  background-color: yellow;
+} 
